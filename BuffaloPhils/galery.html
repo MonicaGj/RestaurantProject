@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title></title>
+		<link rel="stylesheet" href="https://unpkg.com/tailwindcss@next/dist/tailwind.min.css">
+		<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700" rel="stylesheet">
+		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css">
+		<link rel="stylesheet" type="text/css" href="img/gallery/lightbox.min.css">
+		
+    	<script src="img/gallery/lightbox-plus-jquery.min.js"></script>
+		<style>
+		.gradient {
+			background: linear-gradient(90deg, #000 0%, #71726A 100%);
+		}
+		.bg-grey-light{
+			background-color: #F7F9EC;
+		}
+		.grid {
+		    display: grid;
+		    grid-template-columns: 1fr;
+		    grid-gap: 1.5rem;
+		}
+		.scale{
+			transform: scale(1.1);
+			filter: grayscale(100%);
+		}
+		@media screen and (min-width: 768px) {
+		    .grid {
+		        grid-template-columns: repeat(2, 1fr);
+		    }
+		}
+
+		@media screen and (min-width: 992px) {
+		    .grid {
+		        grid-template-columns: repeat(3, 1fr);
+		    }
+		}
+		</style>
+	</head>
+
+	<body class="leading-normal tracking-normal text-white" style="font-family: 'Source Sans Pro',sans-serif;">
+		<!-- Nav -->
+		<nav id="header" class="background-color  w-full fixed z-30 top-0 text-black">
+
+			<div class="background-color m-0 w-full   flex flex-wrap items-center justify-between mt-0 py-2 gradient">
+					
+				<div class="pl-4 flex items-center">
+					<div class=" italic h-7 fill-current inline toggleColour text-yellow-600  no-underline hover:no-underline font-bold text-2xl lg:text-4xl">Buffalo Phil`s</div>
+				</div>
+
+				<!-- Menu btt -->
+				<div class="block lg:hidden pr-4">
+					<button id="nav-toggle" class="flex items-center px-3 py-2  rounded text-gray-500 border-gray-600 hover:text-gray-800 hover:border-teal-500 appearance-none focus:outline-none">
+						<svg class="fill-current h-3 w-3" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><title>Menu</title><path d="M0 3h20v2H0V3zm0 6h20v2H0V9zm0 6h20v2H0v-2z"/></svg>
+					</button>
+				</div>
+
+				<div class="w-full flex-grow lg:flex lg:items-center lg:w-auto hidden lg:block mt-2 lg:mt-0 bg-white lg:bg-transparent text-black p-4 lg:p-0 z-20" id="nav-content">
+					<ul class="list-reset lg:flex justify-end flex-1 items-center">
+						<li class="mr-3">
+							<a class="inline-block py-2 px-4 text-black font-bold text-yellow-600 tracking-tighter hover:underline" href="index.html ">ABOUT</a>
+						</li>
+						<li class="mr-3">
+							<a class="inline-block py-2 px-4 text-black font-bold text-yellow-600  tracking-tighter hover:underline" href="menu.html">MENU</a>
+						</li>
+						<li class="mr-3">
+							<a class="inline-block py-2 px-4 text-black font-bold text-yellow-600  tracking-tighter hover:underline" href="reservation.html">BOOK CRISTAL ROOM </a>
+						</li>
+						<li class="mr-3">
+							<a class="inline-block py-2 px-4 text-black font-bold text-yellow-600  tracking-tighter hover:underline" href="galery.html">GALERY</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</nav>
+
+		<div class="w-full p-16 "></div>
+		<!-- Gallery -->
+		<div class="grid max-w-4xl mx-auto p-8 border-2">
+	        <a href="img/gallery/pic1.jpg" target="_blank" class="bg-white rounded   text-grey-darkest no-underline shadow-md" data-lightbox="gallery">
+	            <img class="w-full block hover:scale  rounded-b" src="img/gallery/pic1.jpg" alt="" >
+	        </a>
+	        <a href="img/gallery/pic2.jpg" target="_blank" class="bg-white rounded h-full text-grey-darkest no-underline shadow-md" data-lightbox="gallery">
+	            <img class="w-full h-full block hover:scale rounded-b" src="img/gallery/pic2.jpg" alt="">
+	        </a>
+	        <a href="img/gallery/pic3.jpg" target="_blank" class="bg-white rounded h-full text-grey-darkest no-underline shadow-md" data-lightbox="gallery">
+	            <img class="w-full h-full block hover:scale rounded-b" src="img/gallery/pic3.jpg" alt="">
+	        </a>
+	        <a href="img/gallery/pic4.jpg" target="_blank" class="bg-white rounded h-full text-grey-darkest no-underline shadow-md" data-lightbox="gallery">
+	            <img class="w-full h-full block hover:scale rounded-b" src="img/gallery/pic4.jpg" alt="">
+	        </a>
+	        <a href="img/gallery/pic5.jpg" target="_blank" class="bg-white rounded h-full text-grey-darkest no-underline shadow-md" data-lightbox="gallery">
+	            <img class="w-full h-full block hover:scale rounded-b" src="img/gallery/pic5.jpg" alt="">
+	        </a>
+	        <a href="img/gallery/pic6.jpg" target="_blank" class="bg-white rounded h-full text-grey-darkest no-underline shadow-md" data-lightbox="gallery">
+	            <img class="w-full h-full block hover:scale rounded-b" src="img/gallery/pic6.jpg" alt="">
+	        </a>
+	        <a href="img/gallery/pic7.jpg" target="_blank" class="bg-white rounded h-full text-grey-darkest no-underline shadow-md" data-lightbox="gallery">
+	            <img class="w-full block hover:scale rounded-b" src="img/gallery/pic7.jpg" alt="">
+	        </a>
+	        <a href="img/gallery/pic8.jpg" target="_blank" class="bg-white rounded h-full bg-grey-light text-grey-darkest no-underline shadow-md" data-lightbox="gallery">
+	            <img class="w-full h-full block hover:scale rounded-b bg-grey-light" src="img/gallery/pic8.jpg" alt="">
+	        </a>
+	        <a href="img/gallery/pic9.jpg" target="_blank" class="bg-white rounded h-full text-grey-darkest no-underline shadow-md" data-lightbox="gallery">
+	            <img class="w-full block hover:scale rounded-b" src="img/gallery/pic9.jpg" alt="">
+	        </a>
+	        <a href="img/gallery/appetizers.jpg" target="_blank" class="bg-white rounded h-full text-grey-darkest no-underline shadow-md" data-lightbox="gallery">
+	            <img class="w-full block hover:scale rounded-b" src="img/gallery/appetizers.jpg" alt="">
+	        </a>
+	        <a href="img/gallery/beverages.png" target="_blank" class="bg-white rounded h-full text-grey-darkest no-underline shadow-md" data-lightbox="gallery">
+	            <img class="w-full block hover:scale rounded-b" src="img/gallery/beverages.png" alt="">
+	        </a>
+	        <a href="img/gallery/burgers.jpg" target="_blank" class="bg-white rounded h-full text-grey-darkest no-underline shadow-md" data-lightbox="gallery">
+	            <img class="w-full block hover:scale rounded-b" src="img/gallery/burgers.jpg" alt="">
+	        </a>
+    	</div>
+
+
+
+
+    	<script src="script/responsive.js"></script>
+	</body>
+</html>

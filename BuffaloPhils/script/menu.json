@@ -1,0 +1,410 @@
+[
+  {
+    "ID": 1,
+    "Type": "Appetizers",
+    "Name": "CHEESE CURDS",
+    "Description": "10oz. of white cheese curds that are breaded, deep fried & served with your choice of ranch or marinara.",
+    "GlutenFree": false,
+    "Price": 10.0
+  },
+  {
+    "ID": 2,
+    "Type": "Appetizers",
+    "Name": "WINGS",
+    "Description": "8 chicken wings served fried & naked with celery & blue cheese.",
+    "GlutenFree": false,
+    "Price": 11.99
+  },
+  {
+    "ID": 3,
+    "Type": "Appetizers",
+    "Name": "SANTA FE QUESADILLA",
+    "Description": "A flour tortilla filled with your choice of pulled rotisserie chicken or pulled pork, monterey jack & cheddar cheese with a side of sour cream, lettuce & salsa.",
+    "GlutenFree": false,
+    "Price": 12.0
+  },
+  {
+    "ID": 4,
+    "Type": "Appetizers",
+    "Name": "MACHO NACHOS",
+    "Description": "Tri-color tortilla chips topped with melted queso, diced tomatoes, green onions, sliced black olives, monterey jack & cheddar cheese plus your choice of taco meat, pulled pork or pulled chicken with salsa on the side.",
+    "GlutenFree": false,
+    "Price": 12.99
+  },
+  {
+    "ID": 5,
+    "Type": "Appetizers",
+    "Name": "ONION RINGS",
+    "Description": "Deliciously crispy, deep fried onion rings.",
+    "GlutenFree": false,
+    "Price": 9.99
+  },
+  {
+    "ID": 6,
+    "Type": "Appetizers",
+    "Name": "BREADSTICKS",
+    "Description": "8 freshly baked breadsticks, seasoned with parmesan garlic & served with marinara.",
+    "GlutenFree": false,
+    "Price": 7.99
+  },
+  {
+    "ID": 7,
+    "Type": "Appetizers",
+    "Name": "BRONCO BUSTERS",
+    "Description": "4 jalapeño peppers stuffed with shrimp & monterey jack cheese then wrapped in bacon. Skewered atop a grilled, flour tortilla with sour cream, lettuce & mango salsa on the side.",
+    "GlutenFree": false,
+    "Price": 12.56
+  },
+  {
+    "ID": 8,
+    "Type": "Soups & Salads",
+    "Name": "BUFFALO CHICKEN SALAD",
+    "Description": "Mixed lettuces topped with a sliced, fried chicken breast tossed in Spicy Wing Sauce plus tomatoes, sliced cucumbers, shredded carrots, diced celery, crumbled blue cheese & then drizzled with ranch dressing.",
+    "GlutenFree": false,
+    "Price": 12.99
+  },
+  {
+    "ID": 9,
+    "Type": "Soups & Salads",
+    "Name": "CAESAR SALAD",
+    "Description": "Fresh romaine tossed with parmesan cheese & croutons in our signature Caesar dressing topped with tomatoes.",
+    "GlutenFree": false,
+    "Price": 11.99
+  },
+  {
+    "ID": 10,
+    "Type": "Soups & Salads",
+    "Name": "PHIL'S STEAK SALAD",
+    "Description": "A fresh mix of spinach & romaine tossed in chipotle blue cheese dressing. Topped with onion rings, tomatoes, green onions, crumbled blue cheese & seared, sliced steak.",
+    "GlutenFree": false,
+    "Price": 14.99
+  },
+  {
+    "ID": 11,
+    "Type": "Soups & Salads",
+    "Name": "CHICKEN TORTILLA SOUP",
+    "Description": "Seasoned chicken, black beans, pinto beans, corn, tomatoes, onions & peppers make up this Southwest favorite. Topped with fried tortilla straws, monterey jack & cheddar cheese plus sour cream.",
+    "GlutenFree": false,
+    "Price": 4.99
+  },
+  {
+    "ID": 12,
+    "Type": "Soups & Salads",
+    "Name": "SOUP OF THE DAY",
+    "Description": "Ask your server about the signature soup of the day",
+    "GlutenFree": false,
+    "Price": 4.99
+  },
+  {
+    "ID": 13,
+    "Type": "Burgers & Sandwiches",
+    "Name": "BUFFALO BURGER",
+    "Description": "A third pound seared buffalo burger topped with pulled pork, bacon, cheddar cheese & finished with Smooth & Spicy BBQ Sauce.",
+    "GlutenFree": false,
+    "Price": 15.89
+  },
+  {
+    "ID": 14,
+    "Type": "Burgers & Sandwiches",
+    "Name": "THE DUKE SANDWICH",
+    "Description": "Sliced beef brisket & pulled pork topped with pepperjack & cheddar cheese, onion rings, jalapeños & Smoky Bacon BBQ Sauce.",
+    "GlutenFree": false,
+    "Price": 14.99
+  },
+  {
+    "ID": 15,
+    "Type": "Burgers & Sandwiches",
+    "Name": "ALAMO BURGER",
+    "Description": "A classic hand pattied burger with lettuce, tomato & onions on the side.",
+    "GlutenFree": false,
+    "Price": 13.59
+  },
+  {
+    "ID": 16,
+    "Type": "Burgers & Sandwiches",
+    "Name": "BIG COWBOY BURGER",
+    "Description": "2 hand pattied burgers topped with bacon, lettuce, tomato, onions, chipotle mayo & choice of cheese.",
+    "GlutenFree": false,
+    "Price": 15.99
+  },
+  {
+    "ID": 17,
+    "Type": "Burgers & Sandwiches",
+    "Name": "PULLED CHICKEN SANDWICH",
+    "Description": "We pull apart our slow cooked rotisserie chicken & let you slather it with your choice of BBQ sauces at the table.",
+    "GlutenFree": false,
+    "Price": 13.59
+  },
+  {
+    "ID": 18,
+    "Type": "Burgers & Sandwiches",
+    "Name": "PULLED PORK SANDWICH",
+    "Description": "Our slow cooked, succulent pulled pork is ready for your pick of BBQ sauces tablesid.",
+    "GlutenFree": false,
+    "Price": 13.59
+  },
+  {
+    "ID": 19,
+    "Type": "Burgers & Sandwiches",
+    "Name": "CHEESESTEAK SANDWICH",
+    "Description": "Shaved beef on a French roll with grilled onions, peppers & mushrooms, horseradish mayo & Swiss cheese.",
+    "GlutenFree": false,
+    "Price": 15.99
+  },
+  {
+    "ID": 20,
+    "Type": "Burgers & Sandwiches",
+    "Name": "BUFFALO CHICKEN SANDWICH",
+    "Description": "Fried chicken breast tossed in Spicy Wing Sauce topped with bacon, lettuce, provolone, tomato & blue cheese dressing all on toasted ciabatta.",
+    "GlutenFree": false,
+    "Price": 14.99
+  },
+  {
+    "ID": 21,
+    "Type": "Burgers & Sandwiches",
+    "Name": "FRIED CHICKEN WRAP",
+    "Description": "Fried, sliced chicken breast tossed in Spicy Wing Sauce with bacon, lettuce, diced tomatoes, ranch dressing, monterey jack & cheddar cheese all in a wrap. Comes with chips & salsa.",
+    "GlutenFree": false,
+    "Price": 14.59
+  },
+  {
+    "ID": 22,
+    "Type": "Burgers & Sandwiches",
+    "Name": "TURKEY PANINI",
+    "Description": "Smoked turkey breast, bacon, tomato, provolone cheese & roasted red pepper mayo on ciabatta. Comes with chips & salsa.",
+    "GlutenFree": false,
+    "Price": 14.99
+  },
+  {
+    "ID": 23,
+    "Type": "Pastas",
+    "Name": "CHICKEN BACON ALFREDO",
+    "Description": "This pasta takes it to the next level... Chicken, bacon, spinach, broccoli & alfredo sauce baked with a parmesan bread crumb topping.",
+    "GlutenFree": false,
+    "Price": 21.22
+  },
+  {
+    "ID": 23,
+    "Type": "Pastas",
+    "Name": "CHICKEN PARMESAN",
+    "Description": "Marinara sauce, onions, red & green peppers, mozzarella & parmesan cheese topped with a fried chicken breast, mozzarella & parmesan cheese.",
+    "GlutenFree": false,
+    "Price": 22.0
+  },
+  {
+    "ID": 24,
+    "Type": "Pastas",
+    "Name": "PORTABELLO PARMESAN",
+    "Description": "Rosa sauce, red & green peppers topped with a fried portabello, mozzarella & parmesan cheese.",
+    "GlutenFree": false,
+    "Price": 21.99
+  },
+  {
+    "ID": 25,
+    "Type": "Pizza",
+    "Name": "BBQ PIZZA",
+    "Description": "Our own Smooth & Spicy BBQ Sauce piled with pepperoni, sausage, Canadian bacon & bacon.",
+    "GlutenFree": false,
+    "Price": 24.49
+  },
+  {
+    "ID": 26,
+    "Type": "Pizza",
+    "Name": "CHICKEN ALFREDO PIZZA",
+    "Description": "Alfredo sauce topped with chicken, broccoli, spinach & tomatoes.",
+    "GlutenFree": false,
+    "Price": 24.49
+  },
+  {
+    "ID": 27,
+    "Type": "Pizza",
+    "Name": "SUPREME PIZZA",
+    "Description": "A classic pie loaded with pepperoni, sausage, onions, mushrooms & green peppers.",
+    "GlutenFree": false,
+    "Price": 24.49
+  },
+  {
+    "ID": 28,
+    "Type": "Pizza",
+    "Name": "TACO PIZZA",
+    "Description": "Taco meat covered with melted cheddar & mozzarella cheese topped with lettuce, tomatoes & taco chips.",
+    "GlutenFree": false,
+    "Price": 24.49
+  },
+  {
+    "ID": 29,
+    "Type": "Beverages",
+    "Name": "SODA, COFFEE & JUICE",
+    "Description": "Pepsi, Diet Pepsi, Wild Cherry Pepsi, Tropicana Lemonade, Sierra Mist, Diet Sierra Mist, Unsweetened Lipton Iced Tea, Mountain Dew, Diet Mountain Dew, Mug Root Beer, Coffee, Orange, Cranberry or Apple Juice.",
+    "GlutenFree": false,
+    "Price": 2.69
+  },
+  {
+    "ID": 30,
+    "Type": "Beverages",
+    "Name": "FULL BAR AVAILABLE",
+    "Description": "See table menus for: Margaritas, Wine, House Drinks, Bottle & Tap Beer!",
+    "GlutenFree": false,
+    "Price": 10.22
+  },
+  {
+    "ID": 31,
+    "Type": "Beverages",
+    "Name": "OTHER BEVERAGES",
+    "Description": "Cappuccino, Hot Chocolate, Hot Cider, Hot Tea, White or Chocolate Milk",
+    "GlutenFree": false,
+    "Price": 2.69
+  },
+  {
+    "ID": 32,
+    "Type": "Deserts",
+    "Name": "BOURBON PECAN PIE",
+    "Description": "Southern style pecan pie drizzled with caramel, garnished with mini chocolate chips & served with vanilla ice cream.",
+    "GlutenFree": false,
+    "Price": 9.0
+  },
+  {
+    "ID": 33,
+    "Type": "Deserts",
+    "Name": "FRIED ICE CREAM",
+    "Description": "Vanilla ice cream rolled in cinnamon sugar, fried & served on a sweet, crisp tortilla. Topped with caramel, chocolate & brownie chunks.",
+    "GlutenFree": false,
+    "Price": 9.99
+  },
+  {
+    "ID": 34,
+    "Type": "Deserts",
+    "Name": "ICE CREAM SUNDAE",
+    "Description": "A vanilla ice cream sundae with your choice of strawberry, caramel or chocolate plus whipped cream & a cherry on top. ",
+    "GlutenFree": false,
+    "Price": 4.99
+  },
+  {
+    "ID": 35,
+    "Type": "Deserts",
+    "Name": "PEANUT BUTTER PIE",
+    "Description": "What goes better with peanut butter than chocolate? This rich, creamy pie is sure to please your sweet tooth.",
+    "GlutenFree": false,
+    "Price": 8.99
+  },
+  {
+    "ID": 36,
+    "Type": "Appetizers",
+    "Name": "Macho Nachos",
+    "Description": "Tri-color tortilla chips topped with melted queso,diced tomatoes, green onions, sliced black olives & your choice of taco meat, pulled pork or pulled chicken with salsa on the side.",
+    "GlutenFree": true,
+    "Price": 12.99
+  },
+  {
+    "ID": 37,
+    "Type": "Appetizers",
+    "Name": "Bronco Busters",
+    "Description": "4 jalapeño peppers stuffed with shrimp & monterey jack cheese then wrapped in bacon. Skewered atop a grilled, flour tortilla with sour cream, lettuce & mango salsa on the side.",
+    "GlutenFree": true,
+    "Price": 12.99
+  },
+  {
+    "ID": 38,
+    "Type": "Soups & Salads",
+    "Name": "Chicken Tortilla Soup",
+    "Description": "Seasoned chicken, black beans, pinto beans, corn, tomatoes, onions & peppers make up this Southwest favorite. Topped with fried tortilla straws, monterey jack & cheddar cheese plus sour cream.",
+    "GlutenFree": true,
+    "Price": 4.99
+  },
+  {
+    "ID": 39,
+    "Type": "Soups & Salads",
+    "Name": "Caesar Salad",
+    "Description": "Fresh romaine tossed with parmesan cheese & croutons in our signature Caesar dressing topped with tomatoes.",
+    "GlutenFree": true,
+    "Price": 11.99
+  },
+  {
+    "ID": 40,
+    "Type": "Rotisserie Chicken",
+    "Name": "Half Chicken",
+    "Description": "A half of our rotisserie chicken comes with cornbread PLUS 2 sides: fries, baked potato, cowboy beans, corn, southern slaw or mashed baby red potatoes.",
+    "GlutenFree": true,
+    "Price": 15.99
+  },
+  {
+    "ID": 41,
+    "Type": "Pizzas",
+    "Name": "BBQ Pizza",
+    "Description": "Our own Smooth & Spicy BBQ Sauce piled with pepperoni, sausage, Canadian bacon & bacon.",
+    "GlutenFree": true,
+    "Price": 20.99
+  },
+  {
+    "ID": 42,
+    "Type": "Pizzas",
+    "Name": "Vegetarian Pizza",
+    "Description": "A vegetable combination of green peppers, onions, mushrooms, black olives & tomatoes.",
+    "GlutenFree": true,
+    "Price": 20.99
+  },
+  {
+    "ID": 43,
+    "Type": "Pizzas",
+    "Name": "Taco Pizza",
+    "Description": "Taco meat covered with melted cheddar & mozzarella cheese then topped with lettuce, tomatoes & taco chips.",
+    "GlutenFree": true,
+    "Price": 20.99
+  },
+  {
+    "ID": 44,
+    "Type": "Pizzas",
+    "Name": "Supreme Pizza",
+    "Description": "A classic pie loaded with pepperoni, sausage, onions, mushrooms & green peppers.",
+    "GlutenFree": true,
+    "Price": 20.99
+  },
+  {
+    "ID": 45,
+    "Type": "Desserts",
+    "Name": "Root Beer Float ",
+    "Description": "An old-fashioned marriage of Root Beer & vanilla ice cream served in a frosty boot mug .",
+    "GlutenFree": true,
+    "Price": 5.99
+  },
+  {
+    "ID": 46,
+    "Type": "Deserts",
+    "Name": "Ice Cream Sundae",
+    "Description": "A vanilla ice cream sundae topped with your choice of strawberry, caramel or chocolate plus whipped cream & a cherry on top.",
+    "GlutenFree": true,
+    "Price": 4.99
+  },
+  {
+    "ID": 47,
+    "Type": "Deserts",
+    "Name": "Peanut Butter Pie",
+    "Description": "What goes better with peanut butter than chocolate? This rich, creamy pie is sure to please your sweet tooth.",
+    "GlutenFree": true,
+    "Price": 9.99
+  },
+  {
+    "ID": 48,
+    "Type": "Drinks",
+    "Name": "Soda, Coffee & Juice",
+    "Description": "Pepsi, Diet Pepsi, Wild Cherry Pepsi, Tropicana Lemonade, Sierra Mist, Diet Sierra Mist, Unsweetened Lipton Iced Tea, Mountain Dew, Diet Mountain Dew, Mug Root Beer, Coffee, Orange, Cranberry or Apple Juice.",
+    "GlutenFree": true,
+    "Price": 2.69
+  },
+  {
+    "ID": 49,
+    "Type": "Burgers",
+    "Name": "Buffalo Burger",
+    "Description": "A third pound seared buffalo burger topped with pulled pork, bacon, cheddar cheese & finished with Smooth & Spicy BBQ Sauce.",
+    "GlutenFree": true,
+    "Price": 15.99
+  },
+  {
+    "ID": 50,
+    "Type": "Burgers",
+    "Name": "Pulled Chicken Burger",
+    "Description": "We pull apart our slow cooked rotisserie chicken & let you slather it with your choice of BBQ sauces at the table.",
+    "GlutenFree": true,
+    "Price": 13.99
+  }
+]
